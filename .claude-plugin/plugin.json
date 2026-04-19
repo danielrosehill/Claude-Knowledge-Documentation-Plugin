@@ -1,0 +1,12 @@
+{
+  "name": "knowledge-documentation",
+  "version": "1.0.0",
+  "description": "Claude Code plugin: knowledge documentation workflow — index-topic, cross-link, build-taxonomy, version-doc primitives, with wiki/resource-library/process-docs/experiment-report variants.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-Knowledge-Documentation-Plugin",
+  "license": "MIT",
+  "keywords": ["knowledge-base", "wiki", "documentation", "taxonomy", "sop", "experiment-report"]
+}
